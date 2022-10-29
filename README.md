@@ -14,3 +14,4 @@
 > ### [双指针技巧秒杀七道数组题目](./dataStruct/array/)
 >> #### [删除有序数组中的重复项](./dataStruct/array/removeDuplicates.go)
 >> #### [移除元素](./dataStruct/array/removeElements.go)
+>> #### [移动零](./dataStruct/array/moveZores.go)
