@@ -9,4 +9,7 @@
 >> #### [寻找单链表的中点](./dataStruct/List/middleNode.go)
 >> #### [判断单链表是否包含环并找出环起点](./dataStruct/List/hasCycle.go)
 >> #### [判断两个单链表是否相交并找出交点](./dataStruct/List/intersectionNode.go)
+>> #### [删除排序链表中的重复元素](./dataStruct/List/deleteDuplicates.go)
 
+> ### [双指针技巧秒杀七道数组题目](./dataStruct/array/)
+>> #### [删除有序数组中的重复项](./dataStruct/array/removeDuplicates.go)
