@@ -15,3 +15,4 @@
 >> #### [删除有序数组中的重复项](./dataStruct/array/removeDuplicates.go)
 >> #### [移除元素](./dataStruct/array/removeElements.go)
 >> #### [移动零](./dataStruct/array/moveZores.go)
+>> #### [二分查找](./dataStruct/array/binarySearch.go)
