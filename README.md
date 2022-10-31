@@ -19,3 +19,6 @@
 >> #### [两数之和 II - 输入有序数组](./dataStruct/array/twoSum.go)
 >> #### [反转字符串](./dataStruct/array/reverseString.go)
 >> #### [最长回文子串](./dataStruct/array/longestPalindrome.go)
+
+> ### [二叉树](./dataStruct/tree/)
+>> #### [二叉树的最大深度](./dataStruct/tree/maxDepth.go)
