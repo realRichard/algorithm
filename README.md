@@ -22,3 +22,4 @@
 
 > ### [二叉树](./dataStruct/tree/)
 >> #### [二叉树的最大深度](./dataStruct/tree/maxDepth.go)
+>> #### [记录最大直径的长度](./dataStruct/tree/diameterOfBinaryTree.go)
