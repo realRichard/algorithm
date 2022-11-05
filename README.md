@@ -30,3 +30,4 @@
 
 > ### [回溯算法](./alg/bt/)
 >> #### [全排列](./alg/bt/permute.go)
+>> #### [N 皇后](./alg/bt/solveNQueens.go)
