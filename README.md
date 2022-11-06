@@ -33,4 +33,5 @@
 >> #### [N 皇后](./alg/bt/solveNQueens.go)
 
 > ### [回溯算法秒杀所有排列-组合-子集问题](./alg/bt/)
->> #### [N 皇后](./alg/bt/subsets.go)
+>> #### [子集（元素无重不可复选）](./alg/bt/subsets.go)
+>> #### [组合（元素无重不可复选）](./alg/bt/combine.go)
