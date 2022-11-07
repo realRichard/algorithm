@@ -41,3 +41,6 @@
 >> #### [全排列 II（元素可重不可复选）](./alg/bt/permuteUnique.go)
 >> #### [组合总和（元素无重可复选）](./alg/bt/combinationSum.go)
 >> #### [排列（元素无重可复选）](./alg/bt/permuteRepeat.go)
+
+> ### [BFS 算法解题套路框架](./alg/bfs/)
+>> #### [二叉树的最小深度](./alg/bfs/minDepth.go)
