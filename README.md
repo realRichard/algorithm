@@ -40,3 +40,4 @@
 >> #### [组合总和 II（元素可重不可复选）](./alg/bt/combinationSum2.go)
 >> #### [全排列 II（元素可重不可复选）](./alg/bt/permuteUnique.go)
 >> #### [组合总和（元素无重可复选）](./alg/bt/combinationSum.go)
+>> #### [排列（元素无重可复选）](./alg/bt/permuteRepeat.go)
