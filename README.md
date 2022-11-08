@@ -45,3 +45,6 @@
 > ### [BFS 算法解题套路框架](./alg/bfs/)
 >> #### [二叉树的最小深度](./alg/bfs/minDepth.go)
 >> #### [打开转盘锁](./alg/bfs/openLock.go)
+
+> ### [二分查找](./find/)
+>> #### [二分查找](./find/binarySearch.go)

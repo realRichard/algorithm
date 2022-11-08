@@ -1,7 +1,6 @@
 package main
 
 import (
-	"algorithm/find"
 	"fmt"
 )
 
@@ -22,7 +21,6 @@ func main() {
 	// sortMethod.QuickSort(arr, 0, len(arr)-1)
 	// fmt.Println(arr)
 	// fmt.Println(exercise.TwoSum(arr, 0))
-	fmt.Println(find.BinarySearch(arr, 4))
 
 	// head := &linkedlist.LinkedListNode{
 	// 	Value: 1,
