@@ -49,3 +49,4 @@
 > ### [二分查找](./find/)
 >> #### [二分查找](./find/binarySearch.go)
 >> #### [寻找左侧边界的二分搜索](./find/leftBound.go)
+>> #### [寻找右侧边界的二分查找](./find/rightBound.go)

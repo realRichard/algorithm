@@ -17,6 +17,7 @@ func LeftBound(nums []int, target int) int {
 			right = mid - 1
 		}
 	}
+	// 当 target 比 nums 中所有元素都大的时候，left 一直往右移动，到退出的时候， left = right + 1(len(nums) - 1 + 1 = len(nums))
 	if left == len(nums) {
 		return -1
 	}
