@@ -50,3 +50,4 @@
 >> #### [二分查找](./find/binarySearch.go)
 >> #### [寻找左侧边界的二分搜索](./find/leftBound.go)
 >> #### [寻找右侧边界的二分查找](./find/rightBound.go)
+>> #### [在排序数组中查找元素的第一个和最后一个位置](./find/searchRange.go)
