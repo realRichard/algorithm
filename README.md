@@ -54,3 +54,4 @@
 
 > ### [滑动窗口](./dataStruct/str/)
 >> #### [最小覆盖子串](./dataStruct/str/minWindow.go)
+>> #### [字符串的排列](./dataStruct/str/checkInclusion.go)
