@@ -8,6 +8,7 @@ package str
 // https://labuladong.github.io/algo/1/12/#二字符串排列
 
 // 相当给你一个 S 和一个 T，请问你 S 中是否存在一个子串，包含 T 中所有字符且不包含其他字符
+// 排列 顺序不重要，长度一致
 func CheckInclusion(s1 string, s2 string) bool {
 	// 滑动窗口左右指针
 	left, right := 0, 0
