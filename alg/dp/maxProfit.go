@@ -6,6 +6,7 @@ package dp
 // https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/description/
 
 // https://labuladong.github.io/algo/1/13/#三秒杀题目
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems
 
 func MaxProfit(prices []int) int {
 	n := len(prices)
