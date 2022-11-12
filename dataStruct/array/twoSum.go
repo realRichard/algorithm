@@ -1,21 +1,18 @@
 package array
 
-// 力扣第 167 题
-// 两数之和 II - 输入有序数组
+// 力扣第 1 题
+// 两数之和
 
-// https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/description/
+// https://leetcode.cn/problems/two-sum/description/
 
-func TwoSum(numbers []int, target int) []int {
-	left, right := 0, len(numbers)-1
-	for left < right {
-		result := numbers[left] + numbers[right]
-		if result == target {
-			break
-		} else if result < target {
-			left++
-		} else {
-			right--
+func TwoSum(nums []int, target int) []int {
+	table := make(map[int]int)
+	for index, item := range nums {
+		foo := target - item
+		if i, ok := table[foo]; ok {
+			return []int{i, index}
 		}
+		table[item] = index
 	}
-	return []int{left + 1, right + 1}
+	return []int{}
 }

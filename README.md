@@ -70,3 +70,7 @@
 >> #### [打家劫舍](./alg/dp/rob.go)
 >> #### [打家劫舍 II](./alg/dp/rob2.go)
 >> #### [打家劫舍 III](./alg/dp/rob3.go)
+
+> ### [NSUM](./dataStruct/array/)
+>> #### [两数之和](./dataStruct/array/twoSum.go)
+>> #### [两数之和 II - 输入有序数组](./dataStruct/array/twoSum2.go)

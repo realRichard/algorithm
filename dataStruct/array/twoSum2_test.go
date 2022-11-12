@@ -5,10 +5,10 @@ import (
 	"testing"
 )
 
-func TestTwoSum(t *testing.T) {
-	numbers := []int{3, 2, 4}
-	target := 6
-	result := array.TwoSum(numbers, target)
+func TestTwoSum2(t *testing.T) {
+	numbers := []int{2, 7, 11, 15}
+	target := 9
+	result := array.TwoSum2(numbers, target)
 	values := [2]int{}
 	for index, value := range result {
 		values[index] = value
