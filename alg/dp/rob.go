@@ -6,6 +6,7 @@ package dp
 // https://leetcode.cn/problems/house-robber/description/
 
 // https://labuladong.github.io/algo/1/14/#打家劫舍-i
+// https://mp.weixin.qq.com/s/z44hk0MW14_mAQd7988mfw
 
 func RobV1(nums []int) int {
 	return robV1(nums, 0)
