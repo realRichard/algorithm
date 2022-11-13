@@ -76,3 +76,4 @@
 >> #### [两数之和 II - 输入有序数组](./dataStruct/array/twoSum2.go)
 >> #### [三数之和](./dataStruct/array/threeSum.go)
 >> #### [四数之和](./dataStruct/array/fourSum.go)
+>> #### [nSum](./dataStruct/array/nSum.go)
