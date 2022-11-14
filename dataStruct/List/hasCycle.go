@@ -1,5 +1,10 @@
 package list
 
+// 力扣第 141 题
+// 环形链表
+
+// https://leetcode.cn/problems/linked-list-cycle/description/
+
 // 判断链表是否包含环
 // https://labuladong.github.io/algo/1/4/#判断链表是否包含环
 
@@ -18,6 +23,11 @@ func HasCycle(header *ListNode) bool {
 	}
 	return false
 }
+
+// 力扣第 142 题
+// 环形链表 II
+
+// https://leetcode.cn/problems/linked-list-cycle-ii/description/
 
 // 如果有环，如何计算找到这个环的起点
 // 如果有环，那么快慢指针能够相遇，在相遇的时候，假设慢指针走了 k 步，那么快指针就走了 2k 步
