@@ -77,3 +77,9 @@
 >> #### [三数之和](./dataStruct/array/threeSum.go)
 >> #### [四数之和](./dataStruct/array/fourSum.go)
 >> #### [nSum](./dataStruct/array/nSum.go)
+
+
+## chapter 1 数据结构
+> ### [链表](./dataStruct/List/)
+>> #### [双指针](./dataStruct/List/)
+>> #### [反转链表](./dataStruct/List/reverseList.go)
