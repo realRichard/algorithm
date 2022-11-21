@@ -86,3 +86,7 @@
 >> #### [反转链表 II](./dataStruct/List/reverseBetween.go)
 >> #### [K 个一组翻转链表](./dataStruct/List/reverseKGroup.go)
 >> #### [回文链表](./dataStruct/List/isPalindrome.go)
+
+> ### [数组](./dataStruct/array/)
+>> #### [双指针](./dataStruct/array/)
+>> #### [区域和检索 - 数组不可变](./dataStruct/array/sumRange.go)
